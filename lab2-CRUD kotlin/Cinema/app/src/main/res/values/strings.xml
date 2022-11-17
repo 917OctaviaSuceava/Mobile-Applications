@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cinema</string>
+    <string name="movie1">Interstellar</string>
+    <string name="movie2">Split</string>
+    <string name="movie3">Spirited Away</string>
+    <string name="add_movie">Add movie</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
